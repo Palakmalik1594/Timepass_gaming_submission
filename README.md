@@ -69,7 +69,9 @@ The app will be available at `http://localhost:3000`.
 
 Available in design folder of this assignment
 
- 
+ #DEPLOYMENT 
+ Vercel app-  https://timepass-gaming-submission.vercel.app/
+ github link- https://github.com/Palakmalik1594/Timepass_gaming_submission/tree/main
 
 Example (Netlify):
 
